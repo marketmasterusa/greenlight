@@ -10,6 +10,7 @@ Greenlight v3, the latest version, is constructed with the cutting-edge versions
 
 Interested? Try Greenlight v3 out on our [demo server](https://demo.bigbluebutton.org/)!
 
+
 ## Installation
 
 To install and configure Greenlight v3, please follow the instructions [here](https://docs.bigbluebutton.org/greenlight/v3/install).
